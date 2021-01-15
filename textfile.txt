@@ -1,0 +1,8 @@
+Line one of the text file
+
+Line Two fo the a text file, just like line on, but he secon one.
+
+Third Line of the text Line.
+
+Fourth line added by Python
+Fourth line added by Python
